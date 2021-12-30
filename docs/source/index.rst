@@ -5,20 +5,28 @@ PRESTO USER MANUAL
 AIM OF THE DOCUMENT:
 ====================
 
-The Aim of this document is to create a simplified user manual for PRESTO. 
+The Aim of this document is to create a simplified user manual for `PRESTO`_.
 
-This document is to be used as an addendum to the PRESTO user manual by Scott Ranson.
+.. _PRESTO: https://github.com/scottransom/presto
+
+This document is to be used as an addendum to the `PRESTO user manual`_ by Scott Ranson.
+
+.. _PRESTO user manual: https://github.com/scottransom/presto/blob/master/docs/PRESTO_search_tutorial.pdf
 
 The document contains the commands to be used, their functionality along with screenshots capturing the implementations.
 
 Note: In case you are using PRESTO through Docker please refer to the following document:
-PRESTO Using Docker
+`PRESTO Using Docker`_
+
+.. _PRESTO Using Docker: https://prestodocs.readthedocs.io/en/latest/
 
 =========
 DATABASE:
 =========
 
-For the purpose of this document, the database used is: PRESTO DATABASE .fil format
+For the purpose of this document, the database used is: `PRESTO DATABASE`_ .fil format
+
+.. _PRESTO DATABASE: http://www.cv.nrao.edu/~sransom/GBT_Lband_PSR.fil
 
 ================
 PRESTO COMMANDS:
@@ -98,7 +106,7 @@ The bandpass file
 
 .. image:: images/ddplancommand.png
 
-.. image :: images/ddplancommandwoption.png
+.. image:: images/ddplancommandwoption.png
 
     
 
