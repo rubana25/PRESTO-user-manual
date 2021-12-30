@@ -98,6 +98,8 @@ The bandpass file
 
 .. image:: images/ddplancommand.png
 
+.. image :: images/ddplancommandwoption.png
+
     
 
 
